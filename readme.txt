@@ -16,5 +16,11 @@ ee
 242
 121
 212
+<<<<<<< HEAD
 abcdgfe
 efgabcd
+=======
+
+abcdefg
+gfedcbc
+>>>>>>> develop
